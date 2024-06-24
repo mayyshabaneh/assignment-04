@@ -1,0 +1,26 @@
+bitwise right shift : 3
+bitwise left shift : 48
+bitwise not : -100012
+bitwise xor : 6
+bitwise or : 14
+bitwise and : 8
+result in BCD 123 =  ['0001', '0010', '0011']
+the binary value 11100101 in decimal =  229
+decimal value : 229 = in hex  E 5
+decimal value : 1557 = in hex  6 1 5
+result is :  2603
+decimal value : 2603 = in binary  1 0 1 0 0 0 1 0 1 0 1 1
+result is :  419
+result is :  1266
+result is :  2930
+the binary value 1010101 in decimal =  85
+decimal value : 85 = in Octal  1 2 5
+decimal value : 8 = in binary  1 0 0 0
+decimal value : 197 = in Octal  3 0 5
+the binary value 10000000000111111 in decimal =  65599
+the binary value 1011 in decimal =  11
+the binary value 11001 in decimal =  25
+decimal value : 25 = in binary  1 1 0 0 1
+decimal value : 47 = in binary  1 0 1 1 1 1
+decimal value : 123 = in binary  1 1 1 1 0 1 1
+decimal value : 47 = in binary  1 0 1 1 1 1
